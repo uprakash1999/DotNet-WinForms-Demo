@@ -20,7 +20,7 @@ Setup Instructions
 1. Clone the Repository
 sh
 Copy code
-git clone https://github.com/uprakash1999/DotNet-WinForms-Demo.git
+"git clone https://github.com/uprakash1999/DotNet-WinForms-Demo.git"
 cd WinFormsDemo
 2. Open the Project in Visual Studio
 Open the WinFormsDemo.sln solution file in Visual Studio to work with the project.
